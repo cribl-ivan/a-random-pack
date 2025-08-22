@@ -14,7 +14,7 @@ routes:
     clones: []
     output: default
   - id: Pyn91G
-    name: test
+    name: test2
     final: true
     disabled: false
     pipeline: main
